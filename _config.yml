@@ -21,7 +21,7 @@
 title: The Verne-acular
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Your gateway to the latest in linguistics research.
+  Your gateway to the latest in linguistics research, covering phonology, syntax, semantics, sociolinguistics, and more.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
