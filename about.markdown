@@ -4,5 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Verne Green has long held a deep passion for the study of language, spending countless hours exploring the intricate ways in which human beings communicate and express meaning. From the subtle shifts in tone that color everyday conversation to the broader structural patterns that define entire language families, Verne has always been drawn to the complexity that underlies even the simplest exchange of words. This curiosity has led him to engage with a wide range of linguistic topics, from phonetics and syntax to the social dynamics that shape how language evolves within communities.
-For Verne, linguistics is more than an academic pursuit — it is a way of understanding the world and the people in it. He believes that language sits at the heart of human connection, serving as both a mirror of culture and a vehicle for ideas. Whether he is diving into the latest research, discussing the nuances of a particular dialect, or simply marveling at the diversity of the world's languages, Verne approaches the subject with an enthusiasm that is both genuine and infectious. His dedication to making linguistics accessible and engaging is what drives his work and continues to inspire those around him.
+Acquisition of language has played a major role in my personal studies, as well as my personal life for a very long time — 8th grade German class being the start. If you ask my family and friends, they'll agree that this is the truth. I have no idea how many times I have annoyed my sister by only responding to her in Russian, or confusing my hometown friends with phrases in Latin.
+Now that I'm in my undergrad, my goal is to understand more of how language works, while offering that knowledge to a wider audience.
+
+**Acknowledgements**
+
+I would also like to give a big thanks to my good friends Declan Ware, who created the coding for the front and back end of this page, and taught me what a markdown is so that I could actually make posts on here, and Leo Ware, who gave me the name for this website. As I told them, my knowledge is in linguistics, not coding nor creativity.
