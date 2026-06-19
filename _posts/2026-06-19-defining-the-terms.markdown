@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "Defining the Terms"
 date:   2026-04-16 09:00:00 -0400
