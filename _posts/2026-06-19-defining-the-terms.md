@@ -1,8 +1,3 @@
-layout: post
-title:  "The World of Linguistics"
-date:   2026-04-15 18:49:09 -0400
-categories: language
----
 # Defining the Terms
 
 Like I said in my first post, the subfields of linguistics are hard to define if you don't study them. When I first heard the word "morphology," I thought to myself, "Oh, that must be how language morphs over time! Wow, I'm so smart!" Dead wrong. While it seems like these terms have specific definitions that can be easily deduced, usually they have a different meaning altogether. So in this post, before delving into the world of words, I'd like to give some basic definitions that don't require background knowledge.
