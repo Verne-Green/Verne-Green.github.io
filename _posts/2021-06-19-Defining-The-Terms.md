@@ -1,0 +1,95 @@
+# Defining the Terms
+
+Like I said in my first post, the subfields of linguistics are hard to define if you don't study them. When I first heard the word "morphology," I thought to myself, "Oh, that must be how language morphs over time! Wow, I'm so smart!" Dead wrong. While it seems like these terms have specific definitions that can be easily deduced, usually they have a different meaning altogether. So in this post, before delving into the world of words, I'd like to give some basic definitions that don't require background knowledge.
+
+## Graphemics
+
+A grapheme is really just a unit or set of units within a language that form to create meaningful units. Technically, we can define a grapheme as a letter, or letters that make words. Linguistically, graphemes group together to make "phonemes," or multiple units of a phonetic system that can distinguish one word from another. Phonemes are the auditory forms of the written graphemes, carrying more significance due to their being a combination of phonemes.
+
+As an example, the phonemes "p" as in "pat" and "b" as in "bat" are different phonemes. These are distinguishable because the "p" in "pat" creates a sound when you press your lips together to restrict airflow, and then release a puff of air that makes a sound, otherwise known as a voiceless bilabial plosive sound. The "b" sound in "bat" is categorized by a voiced bilabial plosive sound, which is the same as the "p" sound mentioned previously, while using your throat to make the sound more active.
+
+Graphemics are dynamic within languages though, and have different pronunciations in any given language depending on regional dialect and accents. One example of this is how someone from Louisiana pronounces the word "oil" (transcribed as "ɔɪl" in the International Phonetic Alphabet) different than someone from Michigan would.
+
+There is little more to say about graphemes for now, however, they will be addressed in future posts as they come along.
+
+## Morphology
+
+Morphology is not the study of how language develops over time. It's defined by the formation of words and how they interact with one another within a specified language. Moreover, "Morphology is the branch of linguistics (and one of the major components of grammar) that studies word structures, especially regarding morphemes, which are the smallest units of language" (Nordquist).
+
+As Nordquist describes, within the study of morphology, morphemes exist. A morpheme is described as being the smallest unit of a language, meaning it cannot be broken down into a standalone word. Or rather, a unit that contains significance, but cannot be broken down to make another meaningful unit of significance. These include suffixes, prefixes, affixes, and in English, sometimes just letters. Common morphemes in English include "I," and "a," for letters that are recognized as morphemes, and "-ed" as in "walked." Man is another common morpheme, as it's a standalone meaningful linguistic unit within the English language, and no individual letter can be removed from it to create a meaningful word.
+
+Morphemes aren't static though, and can have a lot of different names attached to them. For example, the word "man" is considered to be a "free morpheme," because it carries meaning as a single word. However, describing the different types of morphemes (free morphemes, which are broken down into lexical morphemes and grammatical morphemes, and bound morphemes, which are broken down into derivational morphemes, and inflectional morphemes) would no longer make this a basic understanding of morphology. Don't fret though, these types of morphemes will be defined in later posts.
+
+## Phonology
+
+The study of linguistics that deals with sounds, otherwise known as phonology, is a lot more complex than what has been previously covered. Phonology studies most parts of a language, including its sound systems, sound patterns, and rules of the sounds of a given language. Phonology studies both signed and spoken languages, analyzes how certain sounds actualize in the mind, and examines how stress and intonation translates into rules that are governed by sounds to create different meanings with different words. Let's break this down step-by-step in the information salad I just tossed.
+
+Phonology studies consonant and vowel sounds in spoken language by studying their function within a given language, and how they are perceived by speakers of the language through the study of phonemes (see graphemics) and allophones. Allophones are simply phonemes that have predictable sound variants. For example, the "t" sound in "top" is aspirated (vocalized with a big puff of air), while the "t" sound in "stop" is not, even though they have the same phoneme "t." In sign languages, phonology studies how different hand movements do the same thing, just without using any voice.
+
+Phonology studies the mind in a very interesting way. When you read the word "bat," do you think of the animal that you only see getting attention around Halloween, or do you think of America's pastime? Phonology studies how mental processes work in order to determine how a certain word is perceived. For instance, when given the context of a particular written piece about sports, the mind perceives "bat" as something one would see in Babe Ruth's hands right before a home run; but, when reading about echolocating animals, the mind perceives the same word as a scary specimen with expensive excrement.
+
+Lastly, stress and intonation can change the meaning of certain words entirely. In English, we can use commas, colons, quotation marks, and varying punctuation marks as ways to inflect certain meanings. "You didn't do that?" and "you didn't do that." are two sentences, using the exact same words to create completely different connotations, which are objectively caused due to the punctuation used. For a deeper example outside of the English language, the use of the six tones of Cantonese can completely change the meaning of words in a way that isn't just emotional. For example, the word "魚" (jyu4, where 4 represents the tone used to pronounce this word) means "fish." When using "魚" (jyu6), the same character, with a different stress, creates the word "rain." Even though both of these words have something in common with water in their meaning, they obviously aren't the same.
+
+## Phonetics
+
+You might be thinking, "didn't we just talk about this?" Well, you'd be half correct. Phonology and phonetics are similar in that they both study sounds, yet phonetics studies the articulation of words, as well as their acoustic properties, and how they're perceived in the mind.
+
+Phonology studies how sounds are perceived in the mind as an application to functional grammar, and phonetics studies this as an application to "auditory phonetics," which is the study of how humans perceive speech sounds by ear, and breaks down the processes by which the ear obtains the sound, then decodes the sound through nerves and neurological processes that are perceived as graphemes, phonemes, and understandable sounds.
+
+Articulatory phonetics is the process by which sounds are made with the organs of the vocal tract. This means that when your throat, tongue, uvula, palate, lips, and teeth move around, they create sound.
+
+Acoustic phonetics is the study of how sound waves travel from a speaker to an audience. For example, imagine you're in a boring lecture hall. You might be hearing a little worse if you're sitting at the back of the hall versus the people sitting at the front of the room. You might also hear a slight echo if the walls are reminiscent of a prison. This is all due to sound waves and how they travel. They can only go so far, and they are bouncy, hence the echo you might hear. You might have heard of the doppler effect before, which has been studied by psychoacoustics and audio perception research recently to understand this effect more deeply. However, I digress (this will be talked about in a later post). Acoustic phonetics doesn't necessarily study how sound waves affect people, but how they physically act.
+
+## Pragmatics
+
+The pseudo-constructivist approach to linguistics, pragmatics studies how context contributes to meaning in social interactions. This subset focuses more on intent than literal interpretations of language. Think of Amelia Bedelia: if you told her to make the bed, she would literally make a bed from scratch. But what you implied in saying "make the bed" was, "pull the sheets up and onto the mattress in a neat way, then do the same with the comforter, lastly, place all of the pillows neatly on top of the bed." "Make the bed" is just a shortened version of this.
+
+We can also see examples of pragmatics study being useful in colloquial language, vernacular, and cusswords. When you stub your toe and your reaction is to say "shit!" it's not implied that you literally just discovered excrement on the ground, but that stubbing your toe hurt and surprised you, and you need an expression to describe what you've just experienced.
+
+Pragmatics helps to decode certain phrases, such as the two formerly listed, as well as resolve ambiguity in common speech. If you have ever moved a long way from home, you might notice certain phrases that change. For example: the word "soda" turns into "pop" above the mason-dixon line, and in Texas specifically, the word just turns into coke. Pragmatics helps to decode these terms, as well as social norms such as turn-taking in conversation.
+
+The areas in which pragmatics covers are usually telltale signs of native-level speaking of a language if used properly. If not, speakers or learners of certain languages can sound awkward in conversation. However, when learning a certain language, using pragmatic terms can help someone sound like a regular speaker of a certain language, and not like a robot. Imagine: you are in a scenario where I, the author of this article, am speaking to you exactly how I'm writing this paper. It would feel weird and uncomfortable. But if I'm telling y'all a story about a time when me and some of my buddies had too many drinks and took a stroll by the holler, I'd sound more like a human than something artificial and forced.
+
+## Semantics
+
+Have you ever heard the phrase "you're getting into semantics," or "that's just semantics" before? These phrases usually indicate that some argument you're in is shifting from the discussion of the main topic at hand, and focusing more on irrelevant factors of word meanings. However, words have meanings and they are vital to understanding language. When you read the word "apple" in a space with no context, as an English speaker, you understand that it most likely refers to the pome fruit that grows on trees. This is the main principle of semantics: words have meanings, and we understand them.
+
+The name of the study literally came from the Greek word "semasia" meaning "signification" or "meaning." Therefore, it's the study of meanings or the meaning of words. If you're interested in philosophy, semantics has a great deal to unpack, as its meaning has been debated for thousands of years. Many times, we see words like "onion" or "bush" and we understand that these are plants, but they aren't every plant that has ever existed or will ever exist. They are specifically either an onion or a bush. It's been debated whether words have a specific connection to the objects they represent, or if it's just coincidence that has led people to label specific objects to give them syntactical meaning, and it's just become a convenient standard that we (literally meaning everyone who speaks the language that a specific word represents) have established.
+
+Sometimes, though, we make words based off of a specific sound something makes, like onomatopoeia: words that sound like how they are said, usually animal sounds. This is an argument for the side of those who believe that words do have objective meanings that aren't just coincidental. Because some words sound like how they're spelled, and make sounds that remind us of certain things or beings that make that sound, they are objective and the only name for a particular thing.
+
+I, however, think this is a bad argument, and that the argument for words being given meanings based on societal adaptation is more sensical, and stable. One reason being that there are words that are forgotten due to their unuse, and words that are created to hold significant meanings for new advancements. Take orange for example: it's the newest color. That might sound silly, but the word (rather, words) for orange used to be either red, red-yellow, or yellow in English. The word became used in the early 1500s, and has been used to describe multiple different things, like the fruit itself, as well as the color of certain objects. Meaning, the word wasn't necessary before its popularization, and the societal and popular use of the word was made out of a need to describe the color opposite of blue.
+
+Either way, semantics can be overwhelming and confusing, so I'll save the rest of it for a later post.
+
+## Syntax
+
+Finally, the last description of linguistic terms that I'll define for you, kind reader, syntax. This is, in my opinion, the simplest study in linguistics (to define). Syntax just studies sentence structure, mainly being the rules that sentences have to follow in order to be a meaningful sentence in a given language. These rules ensure that a sentence will be understood when written or spoken.
+
+We if these nobody have rules, able other didn't be would understand to each (If we didn't have these rules, nobody would be able to understand each other). Obviously the example sentence is written incorrectly, and the rearranged sentence is a lot easier to read and understand. The reason behind this is because there are certain rules guiding these words based on their part of speech.
+
+The way in which this works is simple in English, "subject, verb, object," for basic sentences. For more complex sentences, English speakers use, "subject, object, verb, place, time," and sometimes, "subject, object, verb, object, adverb, subject, place, time," or even more complex sentences. Syntax and grammar are, to put it silly, best friends. They go hand-in-hand. Syntax and grammar work together to create meaningful sentences that are understood properly.
+
+I wish there was more to say about syntax, but it really is that simple, and this post is long enough.
+
+## Moving Forward
+
+Thank you for reading this very long post! Linguistics is a research field that I'm very passionate about, and I plan on making more posts very soon.
+
+---
+
+## Sources
+
+- *Alveolar Consonants* | TeachingEnglish | British Council. https://www.teachingenglish.org.uk/professional-development/teachers/teaching-knowledge-database/c/alveolar-consonants. Accessed 16 Apr. 2026.
+- Bagha, Karim Nazari. "A Short Introduction to Semantics." *Journal of Language Teaching and Research*, vol. 2, no. 6, Nov. 2011, pp. 1411–19. DOI.org (Crossref), https://doi.org/10.4304/jltr.2.6.1411-1419.
+- *Definition of GRAPHEMICS*. https://www.merriam-webster.com/dictionary/graphemics. Accessed 16 Apr. 2026.
+- "Fricative Consonant Sounds." *The Sound of English*, https://thesoundofenglish.org/fricative-consonants/. Accessed 16 Apr. 2026.
+- *How Is Syntax Studied?* 15 Nov. 2022, https://sheffield.ac.uk/linguistics/home/all-about-linguistics/about-website/branches-linguistics/syntax/how-syntax-studied.
+- *IPA Phonetic Transcription of English Text - toPhonetics*. https://tophonetics.com/. Accessed 16 Apr. 2026.
+- *Lingua-Alveolar (or Alveolar) – Lancaster Glossary of Child Development*. 22 May 2019, https://www.lancaster.ac.uk/fas/psych/glossary/lingua-alveolar_-or_alveolar/.
+- Nida, Eugene A. "The Identification of Morphemes." *Language*, vol. 24, no. 4, 1948, pp. 414–41. JSTOR, https://doi.org/10.2307/410358.
+- *Phonetics and Phonology* | Linguistics. https://linguistics.uga.edu/research/content/phonetics-and-phonology. Accessed 16 Apr. 2026.
+- ɹ | eNunciate. https://enunciate.arts.ubc.ca/%C9%B9/. Accessed 16 Apr. 2026.
+- "Semantics - Etymology, Origin & Meaning." *Etymonline*, https://www.etymonline.com/word/semantics. Accessed 26 May 2026.
+- *What Is Morphology?* 15 Nov. 2022, https://sheffield.ac.uk/linguistics/home/all-about-linguistics/about-website/branches-linguistics/morphology/what-morphology.
+- "What Is Morphology?" *ThoughtCo*, https://www.thoughtco.com/morphology-words-term-1691407. Accessed 16 Apr. 2026.
