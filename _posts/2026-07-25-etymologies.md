@@ -16,12 +16,17 @@ Within anything that has to deal with language, there are loopholes, broken rule
 ## Debates in Etymology
 
 Because PIE is so ancient, scholars often debate over pronunciation, dialectical differences, and true etymologies of certain words, as we just witnessed in the case of the word "milk." Most of these debates involve different factors concerning folk origin, dialect, and structural misanalysis. Think of colloquial, vernacular, or slang terms. In the case of the British English word "bloke" meaning a macho Englishman, scholars argue whether this word came from Gaelic, Romani, or simply the abbreviation of a slang word. Considering all of the factors laid out for linguists, it can be troubling when trying to decide where a word entirely comes from, or where it developed originally. This proves especially difficult in fiction works, where names or words are completely made up on the spot. There is no significant etymology for the word "thneed" for an example, in the Dr. Seuss book "The Lorax," or "Oz" in "The Wizard of Oz." While these words don't have any significant etymology other than being created by an author, there are many other words that are contested to this day by linguists worldwide. Love is a strong word, but to be adamant about something is to be insistent that you are correct about something. However, linguists argue whether adamant derives from the Latin word "adamare" meaning to love something to completion, or from the ancient Greek "adamas" (ἀδάμας) meaning indomitable. This is because the word has multiple different definitions, one meaning "an extremely hard substance" with ties to a certain stone, and another definition being "unshakeable or insistent." Whether to believe one side is decided by how well you read the third paragraph on this page. We know that the suffix "-ant" means that a given word comes from Old French, or Classical Latin, therefore, it makes sense that the word "adamant" comes from Latin, given the prefix it has meaning "to love" in Latin. However, with the one definition being related to a very hard stone, it makes sense to connect it back to the Ancient Greek, if you don't care about the anatomy of words. This is just one example of debates in the field of etymology, but there are countless others that spark debates constantly.
-Sources
+
+## Sources
+
 Garnier, Romain, and Laurent Sagart. Milk and the Indo-Europeans. www.academia.edu, https://www.academia.edu/28256403/Milk_and_the_Indo_Europeans. Accessed 23 June 2026.
+
 
 germanculture. The Birth of German: From Proto-Germanic to Old High German. 23 June 2025, https://germanculture.com.ua/language/proto-germanic-to-old-high-german-evolution/.
 
+
 "Old English." Ancient Language Institute, https://ancientlanguage.com/old-english/. Accessed 23 June 2026.
+
 
 Proto-Indo-European Language | Discovery, Reconstruction, Divergence, Structure, & Facts | Britannica. https://www.britannica.com/topic/Proto-Indo-European-language. Accessed 23 June 2026.
 
