@@ -1,4 +1,4 @@
-#Etymologies of English Words and How to Tell Where Words Originate#
+## Etymologies of English Words and How to Tell Where Words Originate
 
 In the last post, we established what primary subfields of linguistics are going to be discussed a lot on here. However, I left out one specific topic that I wanted to talk about in this post, given how controversial it can be. In the area of historical linguistics and philology, there lies etymology. Etymology refers to where words originate, or rather which language or culture words come from. Today, I want to share how you can sometimes figure out the etymology of a word given the anatomy of said word.
 
